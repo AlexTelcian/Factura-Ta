@@ -63,6 +63,7 @@
             android:textColor="@android:color/black"
             android:textColorHint="@android:color/black"
             android:textAlignment="center"
+            android:inputType="textCapWords"
             android:textSize="18dp"/>
 
         <EditText
@@ -77,6 +78,7 @@
             android:textColor="@android:color/black"
             android:textColorHint="@android:color/black"
             android:textAlignment="center"
+            android:inputType="textCapWords"
             android:textSize="18dp"/>
 
         <EditText
@@ -91,6 +93,7 @@
             android:textColor="@android:color/black"
             android:textColorHint="@android:color/black"
             android:textAlignment="center"
+            android:inputType="textCapWords"
             android:textSize="18dp"/>
         <EditText
             android:id="@+id/Cantitate"
@@ -104,6 +107,7 @@
             android:textColor="@android:color/black"
             android:textColorHint="@android:color/black"
             android:textAlignment="center"
+            android:inputType="textCapWords"
             android:textSize="18dp"/>
 
         <TextView
