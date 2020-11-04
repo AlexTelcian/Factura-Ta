@@ -50,8 +50,7 @@
         android:layout_height="fill_parent"
         android:layout_width="fill_parent"
         android:background="@drawable/layoutbackground"
-        android:layout_marginTop="100dp"
-        android:layout_marginBottom="50dp">
+        android:layout_marginTop="100dp">
         <EditText
             android:id="@+id/markup"
             android:layout_width="match_parent"
