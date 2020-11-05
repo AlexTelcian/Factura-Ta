@@ -3,7 +3,7 @@
 Descriere: 
 Aplicatie mobila care are rolul de a calcula facturile unei firme comerciale in care este adaugat adaosul comercial + tva.
 
-adaos % - adaos comercial
+adaos % - adaos comercial </br>
 TVA - TVA-ul
 pret unitar - pretul fara adaos si tva
 cantitate - numarul de bucati
