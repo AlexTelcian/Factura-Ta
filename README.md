@@ -1,3 +1,3 @@
 # Factura-Ta
 
-<img src="image/screenshoot.jpg" width="200">
+<img src="image/screenshoot2.jpg" width="200">
